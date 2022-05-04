@@ -1,3 +1,3 @@
-# 01_Expenses project
+## 01_Expenses project
 
-# 02_todo-project(Beginner - very simple)
+## 02_todo-project ( Beginner - very simple )
